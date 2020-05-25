@@ -1,2 +1,6 @@
 This Is My First Project
 added new by abhay
+git status
+git add
+git commit
+git push
