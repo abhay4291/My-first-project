@@ -6,3 +6,7 @@ git commit
 git push
 git pull
 git branch
+ushohos
+lnjaiai
+;njapap
+ajcpapca
