@@ -7,3 +7,7 @@ git push
 git pull
 git branch
 
+ajjajja
+jjjjj
+jmjmmm
+mkkkkk
